@@ -32,11 +32,9 @@ function Header() {
                     < ShoppingBasketIcon className="header_basketIcon" />
                     <span className= "header_basketcount">0</span>
                 </div>
-
-            </div>
-        
+            </div>        
         </div>
-    );
+        );
 };
 
 export default Header;
