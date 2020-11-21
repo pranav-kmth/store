@@ -12,13 +12,13 @@
     width: 100px;
     object-fit: contain;
     margin: 0 20px;
-    margin-top: 17px;
+    margin-top: 18px;
 }
 
 .header_searchIn{
-    height: 10px;
-    padding-top: 8px;
-    padding-bottom: 8px;
+    height: 12px;
+    padding: 10px;
+    
     border: none;
     width: 100%;
 }
@@ -27,7 +27,7 @@
     display: flex;
     flex: 1;
     align-items: center;
-    border-radius: 15px;
+    border-radius: 24px;
 }
 
 .header_searchIcon{
@@ -61,13 +61,12 @@
 
 .header_optionOne{
     font-size: 11px;
-    text-align: start;
 }
 
 .header_optionTwo{
     font-size: 14px;
     font-weight: 900;
-    text-align: start;
+    
 }
 
 .header_basketcount{

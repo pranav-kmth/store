@@ -9,7 +9,7 @@ function Header() {
             <img className ="header_logo" alt="logo" src = "http://pngimg.com/uploads/amazon/amazon_PNG11.png" />
             <div className = "header_search">
                 <input className="header_searchIn" type="text" />
-                < SearchIcon classname = "header_searchIcon" />
+                < SearchIcon className = "header_searchIcon" />
             </div>
             <div className="header_nav" >
                 
