@@ -1,0 +1,32 @@
+.checkout{
+    width: 100%;
+    
+}
+
+.checkout_ad{
+    width: 100%;
+    height: max-content;
+    margin-bottom: 10px;
+}
+
+.checkout_box{
+    display: flex;
+    flex-direction: row;
+
+
+}
+.checkout_right{
+    float: right;
+    max-width: 30%;
+    
+}
+.checkout_left{
+    float: left;
+    
+    max-width: 70%;
+    
+}
+.checkout_title{
+    margin-left: 15px;
+}
+
